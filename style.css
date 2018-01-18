@@ -1,0 +1,65 @@
+img{
+	width: 100%;
+}
+.navbar{
+	position: top-fixed;
+	background: yellow;
+}
+.container-fluid > .navbar-collapse, .container-fluid > .navbar-header, .container > .navbar-collapse, .container > .navbar-header {
+	margin-bottom: 0;
+}
+
+#bannar{
+	position: relative;
+}
+
+
+
+.text{
+	position: absolute;
+	top: 50%;
+	left: 35%;
+	translate:transform(-50%,-50%);
+}
+.text .btn{
+	background: #34edd4;
+}
+.col{
+	position: relative;
+}
+.address{
+	position: absolute;
+	top: 50%;
+	left: 35%;
+	color: white;
+	translate:transform(-50%,-50%);
+}
+
+#timing img{
+	width: 40%
+
+}
+
+#timing .row{
+	background: #34edd4;
+
+}
+
+#gallery .row{
+	
+}
+.paragraph{
+	background: #42f4f4;
+}
+.form-inline .form-control {
+	width: 100px%;
+}
+#project .btn-default{
+	background: #42f4f4;
+}
+#project{
+	background: #b8b9ba;
+}
+#footer{
+	background: black;
+}
